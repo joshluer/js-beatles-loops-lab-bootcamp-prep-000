@@ -22,16 +22,11 @@ return newFacts;
 function iLoveTheBeatles(num) {
   var arr = [];
   let i = 7; 
-  
-    //function incrementalVar() {
-      //i = i + 1;
-      //return i;
-    //}
     
-      do {arr.unshift("I love the Beatles!") + i;
-        i++;
-      }
-      while (i < 15);
+    do {arr.unshift("I love the Beatles!") + i;
+      i++;
+    }
+    while (i < 15);
       
   return arr;
 }
