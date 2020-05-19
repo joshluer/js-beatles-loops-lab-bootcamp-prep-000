@@ -21,12 +21,12 @@ return newFacts;
 
 function iLoveTheBeatles(num) {
   var arr = [];
-  let i = 0; 
+  let i = 7; 
     
     do {arr.unshift("I love the Beatles!") + i;
       i++;
     }
-    while (i < 15);
+    while (i < 15 );
       
   return arr;
 }
