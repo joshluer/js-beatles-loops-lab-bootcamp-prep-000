@@ -26,7 +26,7 @@ function iLoveTheBeatles(num) {
     do {arr.unshift("I love the Beatles!") + i;
       i++;
     }
-    while (i < 7 && i === 17);
+    while (i < 15 && i === 17);
       
   return arr;
 }
