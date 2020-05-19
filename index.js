@@ -21,7 +21,7 @@ return newFacts;
 
 function iLoveTheBeatles(num) {
   var arr = [];
-  let i = 7; 
+  let i = 0; 
     
     do {arr.unshift("I love the Beatles!") + i;
       i++;
